@@ -1,5 +1,7 @@
 # Nottz
 
+![nottz](https://assets.gitlab-static.net/uploads/-/system/project/avatar/24489151/nottz.jpg?width=64)
+
 ## Raison d'être
 I've been using a [popular theme for my Hugo blog](https://github.com/pacollins/hugo-future-imperfect-slim) that had some quirky markdown front matter for posts. 
 
